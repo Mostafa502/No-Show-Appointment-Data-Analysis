@@ -1,43 +1,43 @@
 # No-Show-Appointment-Data-Analysis
 
-##Content
+## Content
 This data mainly about if the patient show-up or no-show to the appointment.
 110527 medical appointments its 14 associated variables (characteristics).
 
-##Exploratory Data Analysis:-
+## Exploratory Data Analysis:-
 
-###Research Question 1 :
+### Research Question 1 :
 Are no-show appointments associated with a certain gender?
 Answer
 We observe that most of people reserve are females and most of people attend are females and most of people don't attend are Females
 
 
-###Research Question 2
+### Research Question 2
 What are the most hospitals where appointments are reserved, and which one is more present for their appointments¶
 Answer
 JARDIM CAMBURI is the most for both
 
 
-###Research Question 3 :
+### Research Question 3 :
 Do SMS reminders decrease the number of absences?
 Answer
 Most of people that didn't receive message didn't attend ,,, And most of people attend didn't received SMS.
 
 
-###Research Question 4 :
+### Research Question 4 :
 Is the period between scheduled day and appointment day affecting the number of no-show appointments?
 Answer
 there are most of people attend at AppointmentDay differ from ScheduledDay but there is small number of people didn't attend at AppointmentDay when they reserve at the same day compared with when they reserve in another day
 
 
-###Research Question 5 :
+### Research Question 5 :
 Do Scholarship reminders increase the number of absences?
 Answer
 Most of people attend don't have a Scholarship
 In [309]:
 
 
-##Conclusions
+## Conclusions
 Results : Our data Suggest that
 1.	There isn't big difference between the distribution of age between patients who showed uo for the appointment versus the patients that didn't show up for the appointment and the most is females .
 2.	There is a higher percentage of people that received an SMS and didn't show up when compared to people who received an SMS and did show up.
