@@ -8,31 +8,31 @@ This data mainly about if the patient show-up or no-show to the appointment.
 
 ### Research Question 1 :
 Are no-show appointments associated with a certain gender?
-Answer
+Answer :
 We observe that most of people reserve are females and most of people attend are females and most of people don't attend are Females
 
 
 ### Research Question 2
 What are the most hospitals where appointments are reserved, and which one is more present for their appointments¶
-Answer
+Answer :
 JARDIM CAMBURI is the most for both
 
 
 ### Research Question 3 :
 Do SMS reminders decrease the number of absences?
-Answer
+Answer :
 Most of people that didn't receive message didn't attend ,,, And most of people attend didn't received SMS.
 
 
 ### Research Question 4 :
 Is the period between scheduled day and appointment day affecting the number of no-show appointments?
-Answer
+Answer :
 there are most of people attend at AppointmentDay differ from ScheduledDay but there is small number of people didn't attend at AppointmentDay when they reserve at the same day compared with when they reserve in another day
 
 
 ### Research Question 5 :
 Do Scholarship reminders increase the number of absences?
-Answer
+Answer :
 Most of people attend don't have a Scholarship
 In [309]:
 
